@@ -1,0 +1,2 @@
+This file is about devops course
+George Brown College's DevOps course is a gateway to exciting career opportunities in the rapidly evolving field of software development and IT operations. By mastering the principles and practices of DevOps, students will gain the skills to bridge the gap between development, operations, and security, enabling faster and more reliable software delivery. Graduates of this program will be highly sought after by employers seeking professionals who can optimize workflows, improve efficiency, and foster a culture of continuous improvement.
