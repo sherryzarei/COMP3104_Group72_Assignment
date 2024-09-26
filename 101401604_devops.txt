@@ -1,1 +1,2 @@
 This file is about devops course
+George Brown College offers a comprehensive DevOps course designed to equip students with the skills and knowledge needed to excel in the fast-paced world of software development and IT operations. The course covers a wide range of topics, including automation, continuous integration and delivery, cloud computing, and containerization. Students will gain hands-on experience with industry-standard tools and technologies, preparing them for successful careers in DevOps.
