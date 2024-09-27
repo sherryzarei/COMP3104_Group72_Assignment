@@ -2,10 +2,10 @@
 
 ## Group Members
 - **Leader:** Sherry Zarei (101274382) - [GitHub](https://github.com/sherryzarei)
-- **Member 2:** Matthew Ciavarella (1023456) - [GitHub](https://github.com/janedoe)
-- **Member 3:** Ramtin Abolfazli (1027890) - [GitHub](https://github.com/johnsmith)
-- **Member 4:** Hamza Khan (1027890) - [GitHub](https://github.com/johnsmith)
-- **Member 5:** Ivan Zakrevskyi (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 2:** Matthew Ciavarella (101401604) - [GitHub](https://github.com/MattCiav20)
+- **Member 3:** Ramtin Abolfazli (101419226) - [GitHub](https://github.com/ramtina1381)
+- **Member 4:** Hamza Khan (101451304) - [GitHub](https://github.com/101451304)
+- **Member 5:** Ivan Zakrevskyi (101419665) - [GitHub](https://github.com/123456995)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
